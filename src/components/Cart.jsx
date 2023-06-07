@@ -1,14 +1,12 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-
 function Cart() {
   return (
     <>
     <div className='container'>
     <div className='row'>
     <div className='col-md-12'>
-
         <h1 className='text-center'>Cart</h1>
         <table className="table table-striped">
   <thead>
